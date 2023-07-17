@@ -10,3 +10,5 @@ function populateBoard(size) {
 
     }
 }
+
+populateBoard(16);
