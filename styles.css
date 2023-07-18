@@ -100,3 +100,7 @@ input {
 .mode {
     margin-bottom: 5px;
 }
+
+.error {
+    display: none;
+}
