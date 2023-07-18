@@ -59,3 +59,8 @@ button:hover {
     background-color: black;
     color: white;
 }
+
+.blackButton:hover {
+    background-color: white;
+    color: black;
+}
