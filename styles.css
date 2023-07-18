@@ -54,3 +54,8 @@ button {
 button:hover {
     cursor: pointer;
 }
+
+.blackButton {
+    background-color: black;
+    color: white;
+}
