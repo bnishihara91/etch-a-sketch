@@ -92,3 +92,11 @@ button:hover {
     background-color: white;
     color: rgb(255, 255, 255);
 }
+
+input {
+    width: 50px;
+}
+
+.mode {
+     
+}
