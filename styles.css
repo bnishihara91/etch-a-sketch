@@ -74,3 +74,12 @@ button:hover {
     background-color: rgb(95, 95, 95);
     color: white;
 }
+
+.randomButton {
+    background: linear-gradient(0.25 turn, #f65cfc, #ebf8e1, #583cf6);
+}
+
+.randomButton:hover {
+    background: linear-gradient(0.25 turn, #20ff02, #ebf8e1, #aecc03);
+}
+
